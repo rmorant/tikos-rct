@@ -1,0 +1,79 @@
+{
+  "meta" : {
+    "params" : {"doctype": "PG", "docID": "PM9879067"}
+    ,"itemsFound" : 1
+  }
+  ,"result" : { 
+  "name" : "PG_aljuan-20140715-PM9879067.pdf"
+  ,"type":"tk:businessDoc"
+  ,"mimetype":"application/pdf"
+  ,"nodeRef": "workspace://SpacesStore/8b743213-244f-4c36-a07c-06702b017fee"
+  ,"id":"8b743213-244f-4c36-a07c-06702b017fee"
+  ,"displayPath":"/Company Home/Sites/contab/documentLibrary/Ventas/Clientes (cc)/aljuan/Pagarés"
+  ,"downloadUrl" : "http://sielan.albasoft.com:80/alfresco/d/a/workspace/SpacesStore/8b743213-244f-4c36-a07c-06702b017fee/PG_aljuan-20140715-PM9879067.pdf?ticket=TICKET_330bacaa845174af97eda81fb9da41e2606db012"
+  ,"properties" : {
+    "creator" : "rmorant"
+    ,"created" : "2014-06-18"
+    ,"doctype" : "PG"
+    ,"docID" : "PM9879067"
+    ,"docDate" : "2014-07-14"
+    ,"agentID" : "aljuan"
+    ,"agentName" : "ALJUAN SL"
+    ,"ourRef" : ""
+    ,"title" : "XSane scanned image"
+    ,"description" : ""
+}
+
+  ,"origins" : [
+      {
+  "name" : "F_14055-aljuan.pdf"
+  ,"type":"tk:businessDoc"
+  ,"mimetype":"application/pdf"
+  ,"nodeRef": "workspace://SpacesStore/a4326723-aa83-40bf-9180-0e4d5885970e"
+  ,"id":"a4326723-aa83-40bf-9180-0e4d5885970e"
+  ,"displayPath":"/Company Home/Sites/contab/documentLibrary/Ventas/Clientes (cc)/aljuan"
+  ,"downloadUrl" : "http://sielan.albasoft.com:80/alfresco/d/a/workspace/SpacesStore/a4326723-aa83-40bf-9180-0e4d5885970e/F_14055-aljuan.pdf?ticket=TICKET_330bacaa845174af97eda81fb9da41e2606db012"
+      ,"properties" : {
+    "creator" : "rmorant"
+    ,"created" : "2014-06-26"
+    ,"doctype" : "F"
+    ,"docID" : "14055"
+    ,"docDate" : "2014-04-28"
+    ,"agentID" : "aljuan"
+    ,"agentName" : "ALJUAN SL"
+    ,"title" : ""
+    ,"description" : ""
+}
+
+      }
+    
+  ]
+  ,"targets" : [
+      {
+  "name" : "BK_bankinter-20140716-3890805.pdf"
+  ,"type":"tk:businessDoc"
+  ,"mimetype":"application/pdf"
+  ,"nodeRef": "workspace://SpacesStore/7c075716-7728-47ce-9286-6bfd210898a1"
+  ,"id":"7c075716-7728-47ce-9286-6bfd210898a1"
+  ,"displayPath":"/Company Home/Sites/contab/documentLibrary/Ventas/Bancos/bankinter"
+  ,"downloadUrl" : "http://sielan.albasoft.com:80/alfresco/d/a/workspace/SpacesStore/7c075716-7728-47ce-9286-6bfd210898a1/BK_bankinter-20140716-3890805.pdf?ticket=TICKET_330bacaa845174af97eda81fb9da41e2606db012"
+      ,"properties" : {
+    "creator" : "rmorant"
+    ,"created" : "2014-07-17"
+    ,"doctype" : "BK"
+    ,"docID" : "3890805"
+    ,"docDate" : "2014-07-15"
+    ,"agentID" : "bankinter"
+    ,"agentName" : ""
+    ,"ourRef" : ""
+    ,"title" : "XSane scanned image"
+    ,"description" : ""
+}
+
+      }
+    
+  ]
+}
+
+}
+

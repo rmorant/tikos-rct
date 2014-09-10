@@ -1,0 +1,10 @@
+{
+	"rest" : {
+		"urlBase" : "http://desa.albasoft.com:8080/alfresco/service",
+		"#urlBase" : "http://sielan.albasoft.com/alfresco/service",
+		"auth" : {
+			"username" : "rmorant",
+			"password" : "rafa"
+		}
+	}
+}

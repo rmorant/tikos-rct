@@ -1,0 +1,39 @@
+{
+  "name": "rosscalltikos",
+  "version": "0.5.0",
+  "main": "rct.js",
+  "description": "Alfresco TIKOS REST API call for import data into Ross",
+  "homepage": "http://www.albasoft.com",
+  "bugs": "https://github.com/rmorant/rosscalltikos/issues",
+  "author": {
+    "name": "Rafa Morant (ALBA Software)",
+    "email": "rmorant@albasoft.com",
+    "url": "www.albasoft.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmorant/rosscalltikos"
+  },
+  "license": "",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "rosscalltikos",
+    "Ross",
+    "Alfresco",
+    "Tikos"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "bin": {
+    "rosscalltikos": "rct.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "debug": "^2.0.0",
+    "rest": "^1.2.0"
+  }
+}
